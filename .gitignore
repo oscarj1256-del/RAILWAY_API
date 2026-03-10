@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv/
+venv/
+env/
+
+# Base de datos local
+*.db
+database.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
